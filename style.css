@@ -1,0 +1,79 @@
+
+tr{ border: 1px solid #DDD;}
+
+table{
+    font-family: Arial;
+    font-size: 14px;
+    color: #666666;
+    text-align: center;
+    border-collapse: collapse; 
+    border-spacing: 0;
+	
+}
+.legenda{
+	font-size: 10px;
+	color: #8F8F8F;
+	text-align: left;
+	margin: 15px;
+}
+
+.posicao1{
+    font-weight: bold;
+    color: #003366;
+    font-size: 18px;
+    text-align: center;
+}
+.posicao2{
+    font-weight: bold;
+    color: #1398BE;
+    font-size: 18px;
+    text-align: center;
+}
+.posicao3{
+    font-weight: bold;
+    color: #DE9800;
+    font-size: 18px;
+    text-align: center;
+}
+.posicao4{
+    font-weight: bold;
+    color: #CCCCCC;
+    font-size: 18px;
+    text-align: center;
+}
+.posicao5{
+    font-weight: bold;
+    color: #C91B04;
+    font-size: 18px;
+    text-align: center;
+}
+.titles{
+    font-size: 13px;
+    color: #999999;
+    font-weight: bold;
+    text-align: center;
+}
+.name{
+    font-size: 14px;
+    color: #666666;
+    font-weight: bold;
+    text-align: left;
+}
+.pontos{
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+.fundo{
+    background-color: #F7F7F7;
+}
+
+.libertadores{
+	
+	position: absolute;
+	margin-top: 4px;
+	width: 10px;
+	height: 10px;
+	border-radius: 2px;
+}
